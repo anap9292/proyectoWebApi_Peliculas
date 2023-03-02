@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Kx1Ouu12kY7ZCPSRcPibKvNjks2kuyppjTlT9lz4LSg=",
+  "Source": "PeliculasAPI",
+  "BasePath": "_content/PeliculasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasAPI\\wwwroot",
+      "Source": "PeliculasAPI",
+      "ContentRoot": "D:\\CursoWebApi\\Nueva carpeta\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
